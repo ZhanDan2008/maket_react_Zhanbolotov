@@ -1,0 +1,23 @@
+.navbar{
+    width: 90%;
+    display: flex;
+    margin-left: 10%;
+    background-color: #FFFFFF;
+    justify-content: space-between;
+}
+.right_part_of_navbar{
+    width: 60%;
+}
+.left_part_in_navbar img{
+    margin-top: 5%;
+    width: 80%;
+}
+.right_part_of_navbar ul{
+    display: flex;
+    gap: 5%;
+    list-style: none;
+}
+.right_part_of_navbar ul li{
+    margin-top: 3.5%;
+    font-family: sans-serif;
+}
